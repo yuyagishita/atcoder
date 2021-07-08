@@ -1,6 +1,6 @@
 {
     "python.pythonPath": "/Users/yu.yagishita/.pyenv/versions/3.8.2/bin/python",
-    "python.linting.flake8Enabled": false,
-    "python.linting.pylintEnabled": true,
-    "python.linting.enabled": true
+    "[python]": {
+        "editor.formatOnSave": true,
+    },
 }
