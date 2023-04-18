@@ -14,5 +14,5 @@ int main() {
     ans += s;
   }
 
-  cout << ans <<endl;
+  cout << ans << endl;
 }
